@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `http://localhost/`,
+    siteUrl: `https://paperbun.org`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
@@ -10,13 +10,13 @@ module.exports = {
     postsPerPage: 3,
 
     // This allows an alternative site title for meta data for pages.
-    siteTitleMeta: `Paperbun`,
+    siteTitleMeta: `With Illuminating stories`,
 
     // This allows an site description for meta data for pages.
-    siteDescriptionMeta: `With illuminating stories`,
+    siteDescriptionMeta: `Paperbun is a non-profit organization where you can read stories on several topics such as computer programming, personal development with free of cost.`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
-    shortTitle: `With illuminating stories`,
+    shortTitle: `Paperbun`,
     siteIcon: `favicon.png`,
     backgroundColor: `#e9e9e9`,
     themeColor: `#15171A`,
